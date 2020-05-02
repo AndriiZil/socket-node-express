@@ -1,0 +1,29 @@
+{
+  "name": "node-express-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/socket-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/socket-node-express/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/socket-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.25.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
